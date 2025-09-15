@@ -10,7 +10,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Inikah Rasanya?](ebook/InikahRasanya.pdf) - Lia Herliana (2023)
 4. [Tarik! Dorong!](ebook/TarikDorong.pdf) - Puspa Im (2023)
 5. [Bukan Kalah atau Menang](ebook/BukanKalahatauMenang.pdf) - Efitri Widyatuti (2023)
-6. [Suara Apa Itu?](ebook/Suara Apa Itu.pdf) - Agustina Dwi Rahayu (2023)
+6. [Suara Apa Itu?](ebook/SuaraApaItu.pdf) - Agustina Dwi Rahayu (2023)
 7. [Lawa dan Tutu](ebook/LawadanTutu.pdf) - Utami Panca Dewi (2023)
 8. [Rencana Mia](ebook/RencanaMia.pdf) - Waty Sumiati Halim (2023)
 9. [Aku Sudah Besar](ebook/AkuSudahBesar.pdf) - Futri Wijayanti (2023)
