@@ -15,7 +15,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Rencana Mia](ebook/Rencana Mia.pdf) - Waty Sumiati Halim (2023)
 9. [Aku Sudah Besar](ebook/Aku Sudah Besar.pdf) - Futri Wijayanti (2023)
 10. [Princess In The Forest](ebook/Princess In The Forest.pdf) - Witaru Emi (2024)
-11. [Kimu's Cake](ebook/Kimu's Cake.pdf) - Lia Herliana (2024)
+11. [Ringkasan Materi VR](ebook/Ringkasan Materi VR.pdf) - Andrini Putri Wardhani (2025)
 ---
 
 *Powered by GitHub Pages*
