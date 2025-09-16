@@ -19,7 +19,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 ---
 <hr>
-<p><a href="halaman1.html">Halaman 1</a>
+<p><a href="halaman1.html">Halaman 1</a>|
 <hr>
   
 *Powered by GitHub Pages*
