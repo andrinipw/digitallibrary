@@ -6,7 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 
 ## Koleksi
 1. [Emma](ebook/Emma.pdf) - Jane Austen (2010)
-2. [Jujur Itu Keren](ebook/Jujur Itu Keren (Wylvera Windayana).pdf) - Wylvera Windayana (2019)
+2. [Jujur Itu Keren](ebook/Jujur Itu Keren.pdf) - Wylvera Windayana (2019)
 3. [Inikah Rasanya?](ebook/Inikah Rasanya.pdf) - Lia Herliana (2023)
 4. [Tarik! Dorong!](ebook/Tarik Dorong.pdf) - Puspa Im (2023)
 5. [Bukan Kalah atau Menang](ebook/Bukan Kalah atau Menang.pdf) - Efitri Widyatuti (2023)
