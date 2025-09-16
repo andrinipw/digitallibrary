@@ -18,8 +18,9 @@ Berikut ini adalah Koleksi yang dimiliki:
 11. [Ringkasan Materi VR](ebook/Ringkasan Materi VR.pdf) - Andrini Putri Wardhani (2025)
 
 ---
+
 <hr>
 <p><a href="halaman1.html">Halaman 1</a>|
-<hr>
+
   
 *Powered by GitHub Pages*
